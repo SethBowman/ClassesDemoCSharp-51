@@ -1,0 +1,14 @@
+C:\Users\sbowm\OneDrive\Desktop\repos\ClassesDemoCSharp-51\ClassesDemoCSharp-51\bin\Debug\net8.0\ClassesDemoCSharp-51.exe
+C:\Users\sbowm\OneDrive\Desktop\repos\ClassesDemoCSharp-51\ClassesDemoCSharp-51\bin\Debug\net8.0\ClassesDemoCSharp-51.deps.json
+C:\Users\sbowm\OneDrive\Desktop\repos\ClassesDemoCSharp-51\ClassesDemoCSharp-51\bin\Debug\net8.0\ClassesDemoCSharp-51.runtimeconfig.json
+C:\Users\sbowm\OneDrive\Desktop\repos\ClassesDemoCSharp-51\ClassesDemoCSharp-51\bin\Debug\net8.0\ClassesDemoCSharp-51.dll
+C:\Users\sbowm\OneDrive\Desktop\repos\ClassesDemoCSharp-51\ClassesDemoCSharp-51\bin\Debug\net8.0\ClassesDemoCSharp-51.pdb
+C:\Users\sbowm\OneDrive\Desktop\repos\ClassesDemoCSharp-51\ClassesDemoCSharp-51\obj\Debug\net8.0\ClassesDemoCSharp-51.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sbowm\OneDrive\Desktop\repos\ClassesDemoCSharp-51\ClassesDemoCSharp-51\obj\Debug\net8.0\ClassesDemoCSharp-51.AssemblyInfoInputs.cache
+C:\Users\sbowm\OneDrive\Desktop\repos\ClassesDemoCSharp-51\ClassesDemoCSharp-51\obj\Debug\net8.0\ClassesDemoCSharp-51.AssemblyInfo.cs
+C:\Users\sbowm\OneDrive\Desktop\repos\ClassesDemoCSharp-51\ClassesDemoCSharp-51\obj\Debug\net8.0\ClassesDemoCSharp-51.csproj.CoreCompileInputs.cache
+C:\Users\sbowm\OneDrive\Desktop\repos\ClassesDemoCSharp-51\ClassesDemoCSharp-51\obj\Debug\net8.0\ClassesDemoCSharp-51.dll
+C:\Users\sbowm\OneDrive\Desktop\repos\ClassesDemoCSharp-51\ClassesDemoCSharp-51\obj\Debug\net8.0\refint\ClassesDemoCSharp-51.dll
+C:\Users\sbowm\OneDrive\Desktop\repos\ClassesDemoCSharp-51\ClassesDemoCSharp-51\obj\Debug\net8.0\ClassesDemoCSharp-51.pdb
+C:\Users\sbowm\OneDrive\Desktop\repos\ClassesDemoCSharp-51\ClassesDemoCSharp-51\obj\Debug\net8.0\ClassesDemoCSharp-51.genruntimeconfig.cache
+C:\Users\sbowm\OneDrive\Desktop\repos\ClassesDemoCSharp-51\ClassesDemoCSharp-51\obj\Debug\net8.0\ref\ClassesDemoCSharp-51.dll
